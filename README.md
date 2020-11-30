@@ -1,2 +1,2 @@
 # hello-world
-Just another repo
+My name is Shane and I enjoy a challenge. 
